@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <link href="css/styles.css" rel="stylesheet" type="text/css" media="all">
+  <title>Boring Lecture about the lives of parrots</title>
+</head>
+<body>
+  <h1>Introduction</h1>
+
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad aspernatur rerum perspiciatis rem laboriosam unde libero in corporis neque minus dolor eveniet amet iste quas corrupti necessitatibus, voluptatum nihil esse?</p>
+git 
+    <li>Wings</li>
+    <li>Tail</li>
+  </ul>
+
+ <p class="Intro">Visual Examples of Parrot Anatomy</p>
+ <img src="images/parrot.jpg">
+ <img src="images/parrot 2.jpg">
+
+  <p>Thanks again!</p
+</body>
+</html>
